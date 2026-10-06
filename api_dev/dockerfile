@@ -1,0 +1,5 @@
+from python3.11
+cmd cd /projectpath
+cmd source myenv/bin/activate
+
+image postgresql
